@@ -1,0 +1,1 @@
+This bot collects data on what it filters in your server. this data is not used for anything other than knowing what filtered words have errors or should be changed.
